@@ -463,9 +463,9 @@ nav {
 .img-product-txt {
   width: 100%;
   height: 14%;
+  padding: .5vw;
 }
 #img-product-txt {
-  padding: 0.2vw;
   display: flex;
   justify-content: space-between;
 }
